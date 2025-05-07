@@ -6,7 +6,7 @@ test('adds 1 + 2 to equal 3', () => {
   //expect(1 + 2).toBe(3);
   expect(1 + 2).toBe(4);
 });
-// New test case
+// New test cases
 test('adds 1 + 2 using sum() function', () => {
   expect(sum(1, 2)).toBe(3);
 });
